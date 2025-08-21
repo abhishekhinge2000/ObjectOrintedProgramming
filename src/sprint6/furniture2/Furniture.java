@@ -1,7 +1,7 @@
 //Sprint:- 6 Ass No:- 2
 //Furniture management System
 
-package sprint6.furniture;
+package sprint6.furniture2;
 
 public class Furniture {
     private String type;

@@ -8,6 +8,7 @@ public class ExpenseMain {
     public static void main(String [] args){
         Scanner scanner = new Scanner(System.in);
 
+
         Expense[] expenses = new Expense[100]; //Fixed size array
         int count = 0;
 

@@ -1,4 +1,4 @@
-package sprint6.furniture;
+package sprint6.furniture2;
 
 public class FurnitureStore {
     public static void main(String[] args){

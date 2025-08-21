@@ -9,7 +9,8 @@ public class Employee {
     //no constructor define
 
     void displayDetails(){
-        System.out.println("Name: " + name + ", Department: " + department);
+        System.out.println("Name: " + name );
+        System.out.println("Department: " + department);
         System.out.println("Salary: " +salary);
     }
 }
