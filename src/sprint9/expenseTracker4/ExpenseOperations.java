@@ -4,10 +4,9 @@ public interface ExpenseOperations {
     void addExpense(Expense expense);
     void viewExpenses();
     double calculateTotal();
-    void shortExpenses();
+    void sortExpenses();
     void searchByDescription(String keyword);
-    void filterByCategory();
+    void filterByCategory(String category);
     void searchByKeyword(String keyword);
-
 
 }
